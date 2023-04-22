@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^19.9.1"
+    "puppeteer": "^19.10.1"
   },
   "name": "instagram_scraping",
   "version": "1.0.0",
   "description": "instagram account screen shots",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node index.js"
   },
